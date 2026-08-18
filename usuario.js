@@ -102,3 +102,7 @@ function VerificarUsuario() {
         }
     });
 }
+
+function registrar(){
+    
+}
