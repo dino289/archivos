@@ -104,5 +104,6 @@ function VerificarUsuario() {
 }
 
 function registrar(){
-    
+       var usu = $("#txt_usu").val();
+    var con = $("#txt_con").val();
 }
